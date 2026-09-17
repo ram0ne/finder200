@@ -60,7 +60,7 @@ python3 finder200.py -n "Luciano Ramone"
 ### Buscar pelos dois ao mesmo tempo
 
 ```bash
-python3 finder200.py "luc.ramone" -n "Luciano Ramone"
+python3 finder200.py "username" -n "NOME"
 ```
 
 ### Opções disponíveis
@@ -84,13 +84,13 @@ python3 finder200.py "luc.ramone" -n "Luciano Ramone"
 ╚══════════════════════════════╝
 by Luciano Ramone
 
-Username: luc.ramone
+Username: username
 
-[+] GitHub      ENCONTRADO      https://github.com/luc.ramone
+[+] GitHub      ENCONTRADO      https://github.com/username
 [-] Instagram   NÃO ENCONTRADO
-[+] Reddit      ENCONTRADO      https://www.reddit.com/user/luc.ramone/about.json
+[+] Reddit      ENCONTRADO      https://www.reddit.com/user/username/about.json
 [?] Twitter/X   INDETERMINADO   (HTTP 403 (site pode bloquear bots))
-[+] ArtStation  ENCONTRADO      https://www.artstation.com/luc.ramone
+[+] ArtStation  ENCONTRADO      https://www.artstation.com/username
 [-] Hashnode    NÃO ENCONTRADO
 
 Total: 3 encontrados de 37 verificados
@@ -98,12 +98,12 @@ Total: 3 encontrados de 37 verificados
 [Busca por nome] Luciano Ramone
 
 [+] LinkedIn — 2 resultado(s):
-      • Luciano Ramone - Engenheiro de Software - LinkedIn
-        https://www.linkedin.com/in/luciano-ramone
+      • USUARIO - Engenheiro de Software - LinkedIn
+        https://www.linkedin.com/in/username
 [-] Facebook — nenhum resultado encontrado
 [+] Instagram — 1 resultado(s):
-      • Luciano Ramone (@luc.ramone) • Fotos e vídeos do Instagram
-        https://www.instagram.com/luc.ramone/
+      • USARUIO (@username) • Fotos e vídeos do Instagram
+        https://www.instagram.com/username/
 
 Total: 3 resultado(s) encontrados em 9 plataforma(s) pesquisadas
 
