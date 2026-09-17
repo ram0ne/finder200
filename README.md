@@ -146,7 +146,7 @@ Facebook, Instagram, LinkedIn, Twitter/X, TikTok, YouTube, Pinterest, VK, Quora.
 ## 📦 Saída em JSON
 
 ```bash
-python3 finder200.py "luc.ramone" -n "Luciano Ramone" --json resultado.json
+python3 finder200.py "username" -n "NOME DE USUARIO" --json resultado.json
 ```
 
 Gera um arquivo estruturado com os campos `username_results` e `name_results`, útil para integração com outras ferramentas ou pipelines de análise.
